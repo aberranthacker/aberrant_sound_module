@@ -1,0 +1,19 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~3xAY_plus_RAM.PrjPCB|ReportField=ProjectFullPath~D:\Dropbox\retrodev\MC0511_upgrades\3xay_plus_ram\3xAY_plus_RAM.PrjPCB|ReportField=Title~Bill of Materials For Project [3xAY_plus_RAM.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~19:01:21|ReportField=ReportDate~07.06.2020|ReportField=ReportDateTime~07.06.2020 19:01:21|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~54|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~722a9a0402bf3b7cd18f2eccea9fd82d8f097984|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~07.06.2020|ReportField=CurrentTime~19:01:14|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Dropbox\retrodev\MC0511_upgrades\3xay_plus_ram\main.SchDoc|ReportField=DocumentName~main.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~07.06.2020|ReportField=Organization~|ReportField=ProjectName~3xAY_plus_RAM.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~3xAY_plus_RAM.PrjPCB|ReportField=DataSourceFullPath~D:\Dropbox\retrodev\MC0511_upgrades\3xay_plus_ram\3xAY_plus_RAM.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|74F642N||DD1, DD2|DIP20|74x642|2
+2|74x38|ЛА13 4x2NAND O.C.|DD3|DIP14|74x38|1
+3|КР1533ЛЕ4||DD4|DIP14|КР1533ЛЕ4(74ALS27)|1
+4|74x1034|ЛП19 6 buffers|DD5|DIP14|74x1034 IEEE|1
+5|74x373|ИР22 transparent latch|DD6, DD9|DIP20|74x373|2
+6|74x138|ИД7 3 to 8 DEMUX|DD7|DIP16|74x138|1
+7|74x30|ЛА2 8NAND|DD8|DIP14|74x30|1
+8|74x93A|ИЕ5|DD10|DIP14|74x93A IEEE|1
+9|AY-3-8913||DD11_AY1, DD11_AY2, DD11_AY3|DIP24|AY-3-8913|3
+10|155LP5||DD12_AY1, DD12_AY2, DD12_AY3|DIP14-3|155LP5|3
+11|FNR8||DR1, DR2|FNR8|FNR8|2
+12|Quartz Oscillator||G1|DIP8 Osc|Quartz Oscillator|1
+13|EDGE||P1|SNP15-48 EDGE|SNP15-48 EDGE|1
+14|Header 2|Header, 2-Pin|P2|HDR1X2|Header 2|1
+15|IDC2X30M||P3|IDC60M|IDC2X30M|1
+16|R0125A||R1, R2, R3|AXIAL-0.3|R0125A|3
+17|R0125||R4_AY1, R4_AY2, R4_AY3, R5_AY1, R5_AY2, R5_AY3, R6_AY1, R6_AY2, R6_AY3, R7_AY1, R7_AY2, R7_AY3, R8_AY1, R8_AY2, R8_AY3, R9_AY1, R9_AY2, R9_AY3, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19|AXIAL-0.3|R0125|28
+18|LM358N||U1|DIP8|LM358N|1
