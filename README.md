@@ -1,1 +1,1 @@
-# Aberrant Sound Card
+# Aberrant Sound Module
